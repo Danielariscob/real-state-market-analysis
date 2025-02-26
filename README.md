@@ -18,8 +18,10 @@ The real estate market is a complex and dynamic entity of great interest for pro
  
  - 📄 real_state_market_analysis.ipynb
  - 📄 README.md
- - 📊 properties.csv 
+ - 📊 properties.csv
+ - 📊 processed_properties.csv 
  - 📊 customers.csv
+ - 📊 processed_customers.csv
    
 #### ⚒️ How to Run
 
